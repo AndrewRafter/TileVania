@@ -20,4 +20,4 @@ Download Unity (Unity 2021.3.4f1 was used for this project).
 Open Unity Hub and click "Add".  
 Select the folder where you extracted the files to.  
 Open the project from the Hub.  
-If the scene isn't loaded, in the folder go to Assets > Scenes > SampleScene
+If the scene isn't loaded, in the folder go to Assets > Levels > Pick a level
