@@ -5,7 +5,7 @@ Title: Tile Vania
 
 Description:
 ------------
-A game where the player has to answer questions correctly before the timer runs out.
+A game where the player has to get to the end of the level while collecting coins and avoiding enemies/obstacles.
 
 Controls:
 ------------
